@@ -1,2 +1,2 @@
 # minishell
-This project is about creating a simple shell
+This is command project about creating a simple shell
